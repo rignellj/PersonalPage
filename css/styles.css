@@ -1,0 +1,146 @@
+/*****TAG SELECTORS****/
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 526.5%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #d9c6a5;
+  border-width: 5px;
+  margin-bottom: 75px;
+  width: 5%;
+}
+
+/*****CLASS SELECTORS****/
+
+.btn {
+  background-color: #66BFBF;
+  border: none;
+  margin: 20px 0;
+  color: #EAF6F6;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.circular {
+  border-radius: 100%;
+  width: 100px;
+  height: auto;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.footer-link {
+  font-size: 150%;
+}
+
+.top-container {
+  background-color: #f7e7bd;
+  position: relative;
+  padding-top: 100px
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  margin-top: 50px
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto;
+  width: 50%;
+  line-height: 2;
+
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-c {
+  float: left;
+  margin-right: 30px;
+  height: auto;
+  width: 50%;
+}
+
+.skill-design {
+  float: right;
+  margin-right: 30px;
+  height: auto;
+  width: 50%;
+}
+
+.skill-linux {
+  float: left;
+  margin-right: 30px;
+  height: auto;
+  width: 50%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
