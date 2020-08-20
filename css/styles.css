@@ -69,6 +69,7 @@ hr {
 .contact-me {
   width: 40%;
   margin: 40px auto 60px;
+  line-height: 2;
 }
 
 .footer-link {
